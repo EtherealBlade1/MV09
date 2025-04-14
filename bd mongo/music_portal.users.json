@@ -1,0 +1,53 @@
+[{
+  "_id": {
+    "$oid": "67f61dd99f63cba40962907c"
+  },
+  "username": "1",
+  "password": "$2b$10$qZe1UrShPk2IeL3lCuJSeu6RtrI3qhojy4uCSjEnVR.gPyNwoK2TK",
+  "__v": 0,
+  "photo": "uploads\\photos\\1744190744904.png"
+},
+{
+  "_id": {
+    "$oid": "67f628b3c9f55de742a68b8e"
+  },
+  "username": "il",
+  "password": "$2b$10$c4ZjNmkLfwSGEVHVrrLekeGda2wvcoPSr8KVSpdrSz/nfF8nn9Ypm",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "67f64ba77f5ce3cb3f4011ba"
+  },
+  "username": "43",
+  "password": "$2b$10$4379/Cn8DeTAeflv6KKAqOgZ368iHYEiyVvTaIgE6OkSXUoueNNz6",
+  "photo": "uploads\\photos\\1744194495194.jpg",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "67f66047dcbafc50b061c0ae"
+  },
+  "username": "3123",
+  "password": "$2b$10$G3rD9j/xemdvMXCBSCtRFOkym.p8JlLNDRb2/nKzQ2o3dKbCGV7FG",
+  "photo": null,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "67fca87e4d045652f0b90dbd"
+  },
+  "username": "5",
+  "password": "$2b$10$Yd2ZmQMQ7P87c/pX3wcywukrNLynqpdUAR3s.gNhjvXqwKWDIKMFi",
+  "photo": null,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "67fca88f4d045652f0b90dc1"
+  },
+  "username": "8",
+  "password": "$2b$10$0sHUSf//9ibLFTf.z704feEoJxOHFrj4Ug5LBtwoGNM93pBcfN1Gq",
+  "photo": "uploads\\photos\\1744611627062.png",
+  "__v": 0
+}]

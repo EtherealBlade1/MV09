@@ -1,0 +1,68 @@
+[{
+  "_id": {
+    "$oid": "67f63d9c0b871598bc64567d"
+  },
+  "trackId": {
+    "$oid": "67f62742a97139d6df5cf75a"
+  },
+  "userId": {
+    "$oid": "67f61dd99f63cba40962907c"
+  },
+  "text": "4",
+  "rating": 5,
+  "createdAt": {
+    "$date": "2025-04-09T09:27:56.951Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "67f6494e588feffe93528f2d"
+  },
+  "trackId": {
+    "$oid": "67f61d789f63cba409629078"
+  },
+  "userId": {
+    "$oid": "67f61dd99f63cba40962907c"
+  },
+  "text": "",
+  "rating": 1,
+  "createdAt": {
+    "$date": "2025-04-09T10:17:50.489Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "67f64bc77f5ce3cb3f401205"
+  },
+  "trackId": {
+    "$oid": "67f62742a97139d6df5cf75a"
+  },
+  "userId": {
+    "$oid": "67f64ba77f5ce3cb3f4011ba"
+  },
+  "text": "очень круто тест",
+  "rating": 4,
+  "createdAt": {
+    "$date": "2025-04-09T10:28:23.066Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "67f66436dcbafc50b061c1de"
+  },
+  "trackId": {
+    "$oid": "67f63a5397d1bcc804471e2c"
+  },
+  "userId": {
+    "$oid": "67f64ba77f5ce3cb3f4011ba"
+  },
+  "text": "крутааа",
+  "rating": 5,
+  "createdAt": {
+    "$date": "2025-04-09T12:12:38.334Z"
+  },
+  "__v": 0
+}]

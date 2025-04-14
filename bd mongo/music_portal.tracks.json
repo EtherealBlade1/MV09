@@ -1,0 +1,26 @@
+[{
+  "_id": {
+    "$oid": "67f62742a97139d6df5cf75a"
+  },
+  "title": "And Our Continent Is Called EUROPE",
+  "artist": "Gigi d'Agostino",
+  "duration": "0:45",
+  "filePath": "uploads\\1744185154558.mp3",
+  "userId": {
+    "$oid": "67f61dd99f63cba40962907c"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "67f63a5397d1bcc804471e2c"
+  },
+  "title": "1",
+  "artist": "1",
+  "duration": "0:45",
+  "filePath": "uploads\\1744190035502.mp3",
+  "userId": {
+    "$oid": "67f61dd99f63cba40962907c"
+  },
+  "__v": 0
+}]
